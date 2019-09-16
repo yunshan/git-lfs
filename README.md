@@ -1,8 +1,8 @@
 # Git Large File Storage
 
-| Linux | macOS | Windows |
-| :---- | :------ | :---- |
-[ ![Linux build status][1]][2] | [![macOS build status][3]][4] | [![Windows build status][5]][6] |
+| Linux | macOS |
+| :---- | :------ |
+[ ![Linux build status][1]][2] | [![macOS build status][3]][4] |
 
 [1]: https://travis-ci.org/git-lfs/git-lfs.svg?branch=master
 [2]: https://travis-ci.org/git-lfs/git-lfs
